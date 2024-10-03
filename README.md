@@ -1,6 +1,6 @@
 # ClearMetrics
 
-ClearMetrics is an intuitive analytics platform designed to provide clear, actionable insights. It helps businesses track key performance indicators (KPIs) and make data-driven decisions with ease.
+ClearMetrics is an intuitive analytics platform designed to provide clear, actionable insights. We help users track key performance indicators (KPIs) and make data-driven decisions with ease.
 
 ## Features
 - **Real-time Data Tracking:** Stay updated with real-time analytics.
