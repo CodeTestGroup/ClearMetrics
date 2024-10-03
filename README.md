@@ -7,6 +7,6 @@ ClearMetrics is an intuitive analytics platform designed to provide clear, actio
 - **Custom Dashboards:** Create and customize dashboards to monitor your KPIs.
 - **Visual Reports:** Generate easy-to-understand visual reports.
 - **Data Integration:** Connect with popular data sources seamlessly.
-
+- **Web Based Contolls** Connect to your controll panel to veiw your tracked analytics.
 ## Project roadmap
 - **Version 1.0** First version of ClearMetrics
